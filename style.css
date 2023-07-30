@@ -1,0 +1,19 @@
+body{
+    font-family: 'DM Sans', sans-serif;
+    background-color: rgb(217, 71, 71);
+}
+
+#top{
+    text-align: center;
+    color: black;
+}
+
+hr{
+    border: 2px solid whitesmoke;
+}
+
+#intro{
+    border: 2px solid whitesmoke;
+    padding-left: 10px;
+    padding-right: 10px;
+}
